@@ -2,7 +2,7 @@
 
 Created by Lourenco Sequeira, Tim Shaw, Alex Yeates, and Sophie Downey.
 
-[front page screenshot]
+<img src="./src/images/homepage.png">
 
 ##What is RUNCH?
 RUNCH is an app targeted at getting people, who have little spare time, active. It enables them to use their lunch-time wisely - they can go for a quick run and meet other like-minded professionals. It is an opportunity to not only get fit, but also to network, and feel refreshed for the second half of the day.
